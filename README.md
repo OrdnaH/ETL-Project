@@ -14,4 +14,4 @@ After downloading our [Instacart dataset](https://www.kaggle.com/c/instacart-mar
 
 More details can be found in our [Instacart Report](https://docs.google.com/document/d/1HpnmOSepOIK7yEkA4PbdTlUmIgmipytGtZhWGC4LPKs/edit?usp=sharing).
 
-![code](Images/instacart_code_snippet.jpg)
+![code](Images/instacart_code_snippet.png)
